@@ -2,6 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'dart:math';
 
+/*
+  Note: the tiles will bug out if you tap numbers too fast or too slow sometimes
+*/
+
 void main() {
   runApp(const MyApp());
 }
